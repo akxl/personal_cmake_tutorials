@@ -1,4 +1,4 @@
-#include "MathFunctions.h"
+#include "MathFunctions.hxx"
 
 double mysqrt(double x) {
     double x0 = 0.0;

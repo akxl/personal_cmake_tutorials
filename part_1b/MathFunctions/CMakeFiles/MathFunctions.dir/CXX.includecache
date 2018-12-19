@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/users/aaronl/documents/cmake_tutorial/part_1b/MathFunctions/MathFunctions.h
+/mnt/c/users/aaronl/documents/cmake_tutorial/part_1b/MathFunctions/MathFunctions.hxx
 math.h
 -
 
 /mnt/c/users/aaronl/documents/cmake_tutorial/part_1b/MathFunctions/mysqrt.cxx
-MathFunctions.h
-/mnt/c/users/aaronl/documents/cmake_tutorial/part_1b/MathFunctions/MathFunctions.h
+MathFunctions.hxx
+/mnt/c/users/aaronl/documents/cmake_tutorial/part_1b/MathFunctions/MathFunctions.hxx
 
